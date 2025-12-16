@@ -1,6 +1,7 @@
 ---
 name: echo
-description: Reply with "echo: <user text>" for the current turn.
+description: |-
+  Reply with "echo: <user text>" for the current turn.
 ---
 
 # Echo Skill
